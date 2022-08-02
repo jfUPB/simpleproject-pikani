@@ -15,4 +15,5 @@ void loop()
         lasTime = currentTime;
       Serial.println(counter++);
     }
+    
 }
